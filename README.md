@@ -8,7 +8,7 @@ The COVID-19 pandemic triggered a global scientific response, leading to an unpr
 -  [COVID_19_Clinical_Trials.ipynb](https://github.com/Samplergithub769/EDA-on-covid19-clinical-trials/blob/main/COVID_19_Clinical_Trials.ipynb)
 
 📄 Report
-- [EDA on COVID.pdf)(https://github.com/Samplergithub769/EDA-on-covid19-clinical-trials/blob/main/EDA%20on%20COVID.pdf)
+- [EDA on COVID.pdf](https://github.com/Samplergithub769/EDA-on-covid19-clinical-trials/blob/main/EDA%20on%20COVID.pdf)
 
 🖼️ Images
 1.  **Top Countries For Clinical Trials**
